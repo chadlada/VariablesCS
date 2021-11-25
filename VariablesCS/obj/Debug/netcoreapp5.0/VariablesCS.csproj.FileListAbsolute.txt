@@ -1,0 +1,15 @@
+/Users/chadlada/Desktop/sdg/VariablesCS/obj/Debug/netcoreapp5.0/VariablesCS.csproj.AssemblyReference.cache
+/Users/chadlada/Desktop/sdg/VariablesCS/obj/Debug/netcoreapp5.0/VariablesCS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chadlada/Desktop/sdg/VariablesCS/obj/Debug/netcoreapp5.0/VariablesCS.AssemblyInfoInputs.cache
+/Users/chadlada/Desktop/sdg/VariablesCS/obj/Debug/netcoreapp5.0/VariablesCS.AssemblyInfo.cs
+/Users/chadlada/Desktop/sdg/VariablesCS/obj/Debug/netcoreapp5.0/VariablesCS.csproj.CoreCompileInputs.cache
+/Users/chadlada/Desktop/sdg/VariablesCS/bin/Debug/netcoreapp5.0/VariablesCS.deps.json
+/Users/chadlada/Desktop/sdg/VariablesCS/bin/Debug/netcoreapp5.0/VariablesCS.runtimeconfig.json
+/Users/chadlada/Desktop/sdg/VariablesCS/bin/Debug/netcoreapp5.0/VariablesCS.runtimeconfig.dev.json
+/Users/chadlada/Desktop/sdg/VariablesCS/bin/Debug/netcoreapp5.0/VariablesCS.dll
+/Users/chadlada/Desktop/sdg/VariablesCS/bin/Debug/netcoreapp5.0/ref/VariablesCS.dll
+/Users/chadlada/Desktop/sdg/VariablesCS/bin/Debug/netcoreapp5.0/VariablesCS.pdb
+/Users/chadlada/Desktop/sdg/VariablesCS/obj/Debug/netcoreapp5.0/VariablesCS.dll
+/Users/chadlada/Desktop/sdg/VariablesCS/obj/Debug/netcoreapp5.0/ref/VariablesCS.dll
+/Users/chadlada/Desktop/sdg/VariablesCS/obj/Debug/netcoreapp5.0/VariablesCS.pdb
+/Users/chadlada/Desktop/sdg/VariablesCS/obj/Debug/netcoreapp5.0/VariablesCS.genruntimeconfig.cache
